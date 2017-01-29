@@ -1,9 +1,18 @@
-.float {
+body {
+	background-color: ;
+}
+img {
 	float: left;
-	margin: 0 20px 20px 0;
+	margin: 0 20px 100px 0;
 
 }
 
-.clear {
+h2.title {
 	clear: left;
 }
+
+.special {
+	color: purple;
+	font-weight: bold;
+}
+

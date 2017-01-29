@@ -1,0 +1,37 @@
+# Porfolio
+
+#### Programming Portfolio, Jan 28, 2017
+
+#### By Irene DeVera
+
+## Description
+
+This is my first submission for my programming portfolio. This contains code using boostrap, css, html. Links to work is also available.
+
+## Setup/Installation Requirements
+
+* No setup/installation is required
+
+## Known Bugs
+
+There are no known bugs
+
+## Support and contact details
+
+If you would like to contribute to my code please contact me at the following:
+
+Irene DeVera
+
+email: irenneeyyy@gmail.com
+
+projects: https://github.com/idevera
+
+## Technologies Used
+
+HTML, CSS, boostrap
+
+### License
+
+Copyright (c) 2017 Irene DeVera
+
+This is licensed under the MIT license
