@@ -32,8 +32,11 @@ h2.title {
 	border-color: #555;
 }
 
+#margin-bottom {
+	margin-bottom: 60px;
+}
+
 .footer {
-	position: fixed;
 	bottom: 0px;
 	left: 0px;
 	width: 100%;
