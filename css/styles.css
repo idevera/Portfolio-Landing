@@ -1,5 +1,5 @@
 body {
-	background-color: ;
+	background-color: #c2d6d6;
 }
 
 img {
@@ -22,9 +22,12 @@ h2.title {
 	color: #fff;
 }
 
+.panel-info {
+	border-color: #555;
+}
+
 .panel-info .panel-heading {
 	background-color: #555;
 	color: white;
 	border-color: #555;
-
 }
