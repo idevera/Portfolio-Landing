@@ -11,6 +11,14 @@ h2.title {
 	clear: left;
 }
 
+p {
+	text-align: justify;
+}
+
+#paragraph-wrap {
+	padding-left: 280px;
+}
+
 .special {
 	color: purple;
 	font-weight: bold;
@@ -20,6 +28,7 @@ h2.title {
 	padding-left: 50px;
 	background-color: #555;
 	color: #fff;
+	border-bottom: solid #fff 10px;
 }
 
 .panel-info {
