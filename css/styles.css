@@ -6,7 +6,7 @@ img {
 	float: left;
 	width: 300px;
 	height: auto;
-	margin: 0 20px 50px 0;
+	margin: 0 30px 30px 0;
 }
 
 h2.title {
@@ -16,17 +16,7 @@ h2.title {
 
 p {
 	text-align: justify;
-}
-
-#paragraph-wrap {
-	border-radius: 20px;
-	border: solid #fff 2px;
-	margin-left: 350px;
-	margin-right: 0;
-	font-size: 110%;
-	width: 65%;
-	padding: 20px;
-}
+}\
 
 .special {
 	color: #000;
