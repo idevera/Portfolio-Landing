@@ -16,11 +16,15 @@ h2.title {
 
 p {
 	text-align: justify;
-}\
+}
 
 .special {
 	color: #000;
 	font-weight: bold;
+}
+
+.panel-body {
+	display: none;
 }
 
 .jumbotron{
